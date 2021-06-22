@@ -1,3 +1,6 @@
 This is a test file for sample
 
 This is the line added on the local repo
+
+Message 3
+
